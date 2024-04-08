@@ -2,7 +2,7 @@
 
 **Films - это приложение для поиска и просмотра информации о фильмах и сериалах, созданное на основе [React](https://react.dev/) и использующее [TMDB API](https://developer.themoviedb.org/docs)**
 
-**Ссылка на деплой версию - [Films](https://sysoev-dev.ru/pets/weather/films)**
+**Ссылка на деплой версию - [Films](https://sysoev-dev.ru/projects/films/)**
 
 **Технологии:**
 * JavaScript
