@@ -3,6 +3,8 @@
 **Films - это приложение для поиска и просмотра информации о фильмах и сериалах, созданное на основе [React](https://react.dev/) и использующее [TMDB API](https://developer.themoviedb.org/docs)**
 
 **Ссылка на деплой версию - [Films](https://sysoev-dev.ru/projects/films/)**
+P.S сервис tmdb недоступен на территории РФ, для запуска демо необходимо добавить адреса themoviedb.org и tmdb.org в блокировщик.
+
 
 **Технологии:**
 * JavaScript
